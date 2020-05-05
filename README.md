@@ -1,2 +1,2 @@
 # CSSGame
-Simple JavaScript/CSS game
+Simple but fun JavaScript/CSS game
